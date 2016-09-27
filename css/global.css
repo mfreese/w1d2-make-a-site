@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.section1 {
+  color: red;
+  font-size: 12px;
+}
+
+.section2 {
+  color: orange;
+  font-size: 12px;
+}
+
+.glock40 {
+  width: 50%;
+}
+.section3 {
+  color: white;
+  font-size: 12px;
+}
+.section4 {
+  color: yellow;
+  font-size: 12px;
+}
+
+img {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.page-heading {
+  text-align: center;
+}
+
+table {
+  margin:0 auto;
+  width:600px;
+  border:1px solid white;
+
+}
+
+td {
+  padding:20px;
+}
