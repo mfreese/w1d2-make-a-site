@@ -33,14 +33,60 @@ img {
 .page-heading {
   text-align: center;
 }
+header{
+  background-color: red;
+  padding-top: 50px;
+}
+
+
 
 table {
   margin:0 auto;
   width:600px;
-  border:1px solid white;
+  border:1px solid black;
 
 }
 
 td {
-  padding:20px;
+  padding:15px;
+}
+.header {
+  background:red;
+
+}
+.about-me {
+  background-color: white,
+
+}
+.my-hobby {
+  background-color: white,
+}
+.middle {
+  background-color: white;
+  height:250px;
+}
+.bottom {
+  background-color: blue;
+  height:200px;
+}
+
+footer{
+  background-color: blue;
+  padding-bottom:25px;
+}
+.go {
+  background-color: purple;
+  padding-top: 100px;
+}
+.education {
+  text-align: center;
+
+}
+#pic {
+  border: 50px solid black;
+  border-radius: 50%;
+  width:50px;
+  padding:0;
+
+
 }
